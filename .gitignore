@@ -1,7 +1,7 @@
-./standalone_admin_password.txt
-./airflow-webserver.pid
-./airflow.db
-./webserver_config.py
+standalone_admin_password.txt
+airflow-webserver.pid
+airflow.db
+webserver_config.py
 
 .idea/*
 venv/*
