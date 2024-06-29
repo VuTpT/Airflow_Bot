@@ -14,3 +14,6 @@ logs/*
 dags/__pycache__/*
 dags/subdags/__pycache__/*
 dags/groups/__pycache__/*
+__pycache__
+* .pyc
+*.pyo

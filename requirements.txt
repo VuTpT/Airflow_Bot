@@ -10,6 +10,7 @@ apache-airflow
 apache-airflow-providers-jdbc==4.3.1
 apache-airflow-providers-microsoft-mssql==3.7.1
 apache-airflow-providers-postgres==5.11.1
+apache-airflow-providers-elasticsearch==5.4.1
 apache-airflow-providers-tableau==4.5.1
 python-daemon==3.0.1
 python-dotenv==1.0.1
@@ -23,6 +24,8 @@ tableauserverclient==0.25
 kubernetes==29.0.0
 kubernetes_asyncio==29.0.0
 types-toml==0.10.8.20240310
+elastic-transport==8.13.1
+elasticsearch==8.13.2
 
 
 
