@@ -1,0 +1,840 @@
+[2024-06-23T22:46:03.267+0700] {processor.py:161} INFO - Started process (PID=7396) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:46:03.268+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:46:03.269+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:03.269+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:46:03.278+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:46:03.297+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:03.297+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:46:03.309+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:03.309+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:46:03.327+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2024-06-23T22:46:35.840+0700] {processor.py:161} INFO - Started process (PID=7521) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:46:35.842+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:46:35.844+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:35.843+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:46:35.853+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:46:35.956+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:35.955+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:46:35.965+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:35.964+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:46:35.982+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2024-06-23T22:47:06.131+0700] {processor.py:161} INFO - Started process (PID=7633) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:47:06.131+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:47:06.133+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:06.132+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:47:06.140+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:47:06.170+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:06.169+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:47:06.179+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:06.179+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:47:06.192+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2024-06-23T22:47:36.260+0700] {processor.py:161} INFO - Started process (PID=7736) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:47:36.261+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:47:36.262+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:36.262+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:47:36.270+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:47:36.300+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:36.300+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:47:36.310+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:36.310+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:47:36.328+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2024-06-23T22:48:07.000+0700] {processor.py:161} INFO - Started process (PID=7846) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:48:07.000+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:48:07.002+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:07.001+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:48:07.013+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:48:07.077+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:07.077+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:48:07.092+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:07.092+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:48:07.116+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.122 seconds
+[2024-06-23T22:48:37.515+0700] {processor.py:161} INFO - Started process (PID=7949) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:48:37.516+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:48:37.518+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:37.517+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:48:37.526+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:48:37.556+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:37.555+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:48:37.566+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:37.565+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:48:37.580+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2024-06-23T22:49:07.937+0700] {processor.py:161} INFO - Started process (PID=8062) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:49:07.938+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:49:07.939+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:07.939+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:49:07.947+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:49:07.977+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:07.977+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:49:07.986+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:07.985+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:49:07.999+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2024-06-23T22:49:38.326+0700] {processor.py:161} INFO - Started process (PID=8631) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:49:38.327+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:49:38.329+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:38.328+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:49:38.336+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:49:38.366+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:38.365+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:49:38.375+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:38.375+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:49:38.388+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2024-06-23T22:50:08.940+0700] {processor.py:161} INFO - Started process (PID=8738) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:50:08.941+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:50:08.943+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:08.942+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:50:08.951+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:50:08.987+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:08.987+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:50:08.997+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:08.997+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:50:09.013+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-06-23T22:50:39.343+0700] {processor.py:161} INFO - Started process (PID=8841) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:50:39.344+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:50:39.345+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:39.345+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:50:39.354+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:50:39.385+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:39.385+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:50:39.395+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:39.395+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:50:39.409+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2024-06-23T22:51:09.872+0700] {processor.py:161} INFO - Started process (PID=8946) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:51:09.874+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:51:09.876+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:09.876+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:51:09.886+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:51:09.933+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:09.933+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:51:09.945+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:09.944+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:51:09.960+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2024-06-23T22:51:40.546+0700] {processor.py:161} INFO - Started process (PID=9051) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:51:40.547+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:51:40.548+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:40.548+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:51:40.556+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:51:40.587+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:40.587+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:51:40.597+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:40.597+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:51:40.612+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T22:52:11.120+0700] {processor.py:161} INFO - Started process (PID=9158) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:52:11.121+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:52:11.122+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:11.122+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:52:11.131+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:52:11.165+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:11.164+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:52:11.175+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:11.175+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:52:11.190+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2024-06-23T22:52:41.535+0700] {processor.py:161} INFO - Started process (PID=9261) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:52:41.536+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:52:41.537+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:41.537+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:52:41.545+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:52:41.578+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:41.577+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:52:41.588+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:41.588+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:52:41.604+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2024-06-23T22:53:12.019+0700] {processor.py:161} INFO - Started process (PID=9371) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:53:12.020+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:53:12.021+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:12.021+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:53:12.030+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:53:12.066+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:12.063+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:53:12.075+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:12.075+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:53:12.090+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2024-06-23T22:53:43.003+0700] {processor.py:161} INFO - Started process (PID=9641) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:53:43.004+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:53:43.006+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:43.006+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:53:43.019+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:53:43.061+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:43.060+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:53:43.074+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:43.074+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:53:43.096+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2024-06-23T22:54:13.130+0700] {processor.py:161} INFO - Started process (PID=9751) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:54:13.131+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:54:13.132+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:13.132+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:54:13.142+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:54:13.176+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:13.175+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:54:13.188+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:13.188+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:54:13.207+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.084 seconds
+[2024-06-23T22:54:44.075+0700] {processor.py:161} INFO - Started process (PID=9879) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:54:44.077+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:54:44.079+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:44.078+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:54:44.088+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:54:44.122+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:44.121+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:54:44.133+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:44.133+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:54:44.148+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.079 seconds
+[2024-06-23T22:55:14.666+0700] {processor.py:161} INFO - Started process (PID=10059) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:55:14.667+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:55:14.669+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:14.668+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:55:14.677+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:55:14.708+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:14.708+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:55:14.721+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:14.720+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:55:14.740+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-06-23T22:55:45.395+0700] {processor.py:161} INFO - Started process (PID=10204) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:55:45.395+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:55:45.396+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:45.396+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:55:45.404+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:55:45.434+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:45.433+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:55:45.444+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:45.443+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:55:45.457+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2024-06-23T22:56:15.963+0700] {processor.py:161} INFO - Started process (PID=10355) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:56:15.964+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:56:15.965+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:15.965+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:56:15.973+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:56:16.003+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:16.003+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:56:16.012+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:16.012+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:56:16.027+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2024-06-23T22:56:46.477+0700] {processor.py:161} INFO - Started process (PID=10482) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:56:46.478+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:56:46.479+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:46.479+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:56:46.487+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:56:46.518+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:46.518+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:56:46.528+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:46.528+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:56:46.542+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2024-06-23T22:57:17.351+0700] {processor.py:161} INFO - Started process (PID=10637) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:57:17.352+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:57:17.353+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:17.353+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:57:17.361+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:57:17.391+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:17.390+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:57:17.401+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:17.400+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:57:17.417+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T22:57:47.966+0700] {processor.py:161} INFO - Started process (PID=10768) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:57:47.967+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:57:47.969+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:47.968+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:57:47.977+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:57:48.012+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:48.012+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:57:48.022+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:48.022+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:57:48.046+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-06-23T22:58:18.757+0700] {processor.py:161} INFO - Started process (PID=10896) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:58:18.758+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:58:18.760+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:18.759+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:58:18.768+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:58:18.801+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:18.801+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:58:18.811+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:18.811+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:58:18.832+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-06-23T22:58:49.156+0700] {processor.py:161} INFO - Started process (PID=11024) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:58:49.157+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:58:49.158+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:49.158+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:58:49.166+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:58:49.196+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:49.196+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:58:49.205+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:49.205+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:58:49.218+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2024-06-23T22:59:20.173+0700] {processor.py:161} INFO - Started process (PID=11145) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:59:20.176+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:59:20.179+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:20.179+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:59:20.196+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:59:20.259+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:20.259+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:59:20.281+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:20.281+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:59:20.316+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2024-06-23T22:59:51.094+0700] {processor.py:161} INFO - Started process (PID=11266) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:59:51.095+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T22:59:51.096+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:51.096+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:59:51.104+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T22:59:51.133+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:51.133+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T22:59:51.143+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:51.143+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T22:59:51.157+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2024-06-23T23:00:21.520+0700] {processor.py:161} INFO - Started process (PID=11388) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:00:21.521+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:00:21.523+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:21.522+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:00:21.531+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:00:21.562+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:21.562+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:00:21.573+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:21.573+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:00:21.588+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2024-06-23T23:00:51.849+0700] {processor.py:161} INFO - Started process (PID=11519) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:00:51.850+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:00:51.851+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:51.851+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:00:51.859+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:00:51.889+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:51.889+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:00:51.899+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:51.899+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:00:51.915+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T23:01:22.464+0700] {processor.py:161} INFO - Started process (PID=11679) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:01:22.465+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:01:22.466+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:22.466+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:01:22.476+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:01:22.510+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:22.510+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:01:22.522+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:22.522+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:01:22.539+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-06-23T23:01:52.906+0700] {processor.py:161} INFO - Started process (PID=11821) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:01:52.907+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:01:52.909+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:52.908+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:01:52.916+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:01:52.945+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:52.945+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:01:52.955+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:52.955+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:01:52.969+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2024-06-23T23:02:23.424+0700] {processor.py:161} INFO - Started process (PID=12035) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:02:23.426+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:02:23.427+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:23.427+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:02:23.435+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:02:23.469+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:23.469+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:02:23.479+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:23.479+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:02:23.494+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2024-06-23T23:02:53.699+0700] {processor.py:161} INFO - Started process (PID=12338) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:02:53.700+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:02:53.701+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:53.701+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:02:53.710+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:02:53.740+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:53.740+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:02:53.750+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:53.750+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:02:53.764+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2024-06-23T23:03:24.100+0700] {processor.py:161} INFO - Started process (PID=12511) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:03:24.101+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:03:24.102+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:24.102+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:03:24.109+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:03:24.138+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:24.138+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:03:24.147+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:24.147+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:03:24.161+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2024-06-23T23:03:54.550+0700] {processor.py:161} INFO - Started process (PID=12643) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:03:54.552+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:03:54.553+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:54.553+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:03:54.561+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:03:54.590+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:54.590+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:03:54.599+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:54.599+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:03:54.612+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2024-06-23T23:04:24.901+0700] {processor.py:161} INFO - Started process (PID=12778) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:04:24.902+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:04:24.903+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:24.903+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:04:24.911+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:04:24.942+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:24.942+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:04:24.952+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:24.952+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:04:24.971+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2024-06-23T23:04:55.538+0700] {processor.py:161} INFO - Started process (PID=12924) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:04:55.539+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:04:55.540+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:55.540+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:04:55.549+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:04:55.581+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:55.581+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:04:55.590+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:55.590+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:04:55.605+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T23:05:26.209+0700] {processor.py:161} INFO - Started process (PID=13049) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:05:26.210+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:05:26.212+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:26.211+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:05:26.220+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:05:26.251+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:26.251+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:05:26.262+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:26.262+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:05:26.280+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2024-06-23T23:05:56.634+0700] {processor.py:161} INFO - Started process (PID=13172) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:05:56.635+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:05:56.636+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:56.636+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:05:56.644+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:05:56.674+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:56.674+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:05:56.684+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:56.684+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:05:56.699+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2024-06-23T23:06:27.285+0700] {processor.py:161} INFO - Started process (PID=13754) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:06:27.286+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:06:27.287+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:27.287+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:06:27.296+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:06:27.325+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:27.325+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:06:27.335+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:27.335+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:06:27.349+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2024-06-23T23:06:57.841+0700] {processor.py:161} INFO - Started process (PID=13984) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:06:57.842+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:06:57.843+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:57.843+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:06:57.851+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:06:57.882+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:57.882+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:06:57.891+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:57.891+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:06:57.905+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2024-06-23T23:07:28.255+0700] {processor.py:161} INFO - Started process (PID=14123) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:07:28.256+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:07:28.258+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:28.257+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:07:28.265+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:07:28.294+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:28.294+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:07:28.303+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:28.303+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:07:28.316+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2024-06-23T23:07:58.603+0700] {processor.py:161} INFO - Started process (PID=14249) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:07:58.604+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:07:58.605+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:58.605+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:07:58.613+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:07:58.644+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:58.644+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:07:58.654+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:58.653+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:07:58.667+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2024-06-23T23:08:28.921+0700] {processor.py:161} INFO - Started process (PID=14675) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:08:28.922+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:08:28.923+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:28.923+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:08:28.931+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:08:28.961+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:28.961+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:08:28.970+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:28.970+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:08:28.984+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2024-06-23T23:08:59.362+0700] {processor.py:161} INFO - Started process (PID=14883) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:08:59.363+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:08:59.364+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:59.364+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:08:59.373+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:08:59.402+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:59.402+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:08:59.412+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:59.411+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:08:59.425+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2024-06-23T23:09:29.881+0700] {processor.py:161} INFO - Started process (PID=15010) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:09:29.882+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:09:29.884+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:09:29.883+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:09:29.892+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:09:29.925+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:09:29.924+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:09:29.935+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:09:29.935+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:09:29.951+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2024-06-23T23:10:00.924+0700] {processor.py:161} INFO - Started process (PID=15133) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:10:00.925+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:10:00.927+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:00.926+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:10:00.937+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:10:00.971+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:00.971+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:10:00.982+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:00.982+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:10:01.000+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2024-06-23T23:10:31.227+0700] {processor.py:161} INFO - Started process (PID=15256) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:10:31.229+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:10:31.230+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:31.230+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:10:31.240+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:10:31.278+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:31.278+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:10:31.291+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:31.291+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:10:31.316+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2024-06-23T23:11:02.286+0700] {processor.py:161} INFO - Started process (PID=15376) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:11:02.287+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:11:02.289+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:02.288+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:11:02.296+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:11:02.330+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:02.330+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:11:02.341+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:02.340+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:11:02.356+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2024-06-23T23:11:32.923+0700] {processor.py:161} INFO - Started process (PID=15500) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:11:32.924+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:11:32.926+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:32.925+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:11:32.935+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:11:32.970+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:32.970+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:11:32.982+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:32.982+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:11:32.998+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2024-06-23T23:12:03.322+0700] {processor.py:161} INFO - Started process (PID=15624) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:12:03.323+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:12:03.324+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:03.324+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:12:03.332+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:12:03.363+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:03.362+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:12:03.371+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:03.371+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:12:03.386+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2024-06-23T23:12:33.720+0700] {processor.py:161} INFO - Started process (PID=15848) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:12:33.721+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:12:33.722+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:33.722+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:12:33.730+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:12:33.759+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:33.759+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:12:33.769+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:33.769+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:12:33.786+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T23:13:04.150+0700] {processor.py:161} INFO - Started process (PID=16148) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:13:04.151+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:13:04.153+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:04.152+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:13:04.161+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:13:04.193+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:04.193+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:13:04.204+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:04.204+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:13:04.219+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2024-06-23T23:13:34.484+0700] {processor.py:161} INFO - Started process (PID=16270) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:13:34.485+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:13:34.486+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:34.486+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:13:34.495+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:13:34.525+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:34.525+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:13:34.535+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:34.535+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:13:34.551+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T23:14:05.071+0700] {processor.py:161} INFO - Started process (PID=16393) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:14:05.072+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:14:05.073+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:14:05.073+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:14:05.081+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:14:05.111+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:14:05.111+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:14:05.120+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:14:05.120+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:14:05.135+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2024-06-23T23:14:35.651+0700] {processor.py:161} INFO - Started process (PID=16518) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:14:35.652+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:14:35.655+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:14:35.655+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:14:35.673+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:14:35.735+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:14:35.735+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:14:35.756+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:14:35.755+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:14:35.783+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.144 seconds
+[2024-06-23T23:15:06.234+0700] {processor.py:161} INFO - Started process (PID=16641) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:15:06.236+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:15:06.237+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:06.237+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:15:06.246+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:15:06.276+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:06.276+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:15:06.286+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:06.286+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:15:06.301+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T23:15:36.762+0700] {processor.py:161} INFO - Started process (PID=16773) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:15:36.763+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:15:36.765+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:36.765+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:15:36.774+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:15:36.807+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:36.807+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:15:36.817+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:36.817+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:15:36.832+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2024-06-23T23:16:07.728+0700] {processor.py:161} INFO - Started process (PID=16931) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:16:07.729+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:16:07.731+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:07.730+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:16:07.741+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:16:07.776+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:07.776+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:16:07.786+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:07.786+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:16:07.804+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2024-06-23T23:16:38.350+0700] {processor.py:161} INFO - Started process (PID=17052) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:16:38.351+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:16:38.352+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:38.352+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:16:38.360+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:16:38.391+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:38.391+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:16:38.400+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:38.400+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:16:38.413+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2024-06-23T23:17:08.699+0700] {processor.py:161} INFO - Started process (PID=17178) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:17:08.700+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:17:08.701+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:08.701+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:17:08.709+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:17:08.740+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:08.740+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:17:08.750+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:08.750+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:17:08.765+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T23:17:39.191+0700] {processor.py:161} INFO - Started process (PID=17300) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:17:39.192+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:17:39.193+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:39.193+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:17:39.202+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:17:39.234+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:39.234+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:17:39.244+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:39.243+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:17:39.257+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2024-06-23T23:18:09.429+0700] {processor.py:161} INFO - Started process (PID=17424) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:18:09.430+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:18:09.432+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:09.431+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:18:09.439+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:18:09.470+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:09.470+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:18:09.479+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:09.479+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:18:09.493+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2024-06-23T23:18:39.694+0700] {processor.py:161} INFO - Started process (PID=17545) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:18:39.695+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:18:39.696+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:39.696+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:18:39.704+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:18:39.734+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:39.733+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:18:39.744+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:39.743+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:18:39.757+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2024-06-23T23:19:10.228+0700] {processor.py:161} INFO - Started process (PID=17730) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:19:10.229+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:19:10.230+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:10.230+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:19:10.238+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:19:10.268+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:10.267+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:19:10.278+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:10.277+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:19:10.291+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2024-06-23T23:19:40.751+0700] {processor.py:161} INFO - Started process (PID=17861) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:19:40.752+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:19:40.753+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:40.753+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:19:40.762+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:19:40.792+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:40.792+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:19:40.802+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:40.802+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:19:40.816+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2024-06-23T23:20:11.308+0700] {processor.py:161} INFO - Started process (PID=17986) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:20:11.308+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:20:11.310+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:11.310+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:20:11.318+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:20:11.350+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:11.349+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:20:11.360+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:11.360+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:20:11.376+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2024-06-23T23:20:42.104+0700] {processor.py:161} INFO - Started process (PID=18126) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:20:42.107+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:20:42.109+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:42.109+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:20:42.120+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:20:42.164+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:42.164+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:20:42.178+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:42.177+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:20:42.204+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2024-06-23T23:21:13.113+0700] {processor.py:161} INFO - Started process (PID=18250) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:21:13.114+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:21:13.116+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:13.116+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:21:13.124+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:21:13.159+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:13.158+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:21:13.169+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:13.169+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:21:13.186+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-06-23T23:21:43.498+0700] {processor.py:161} INFO - Started process (PID=18371) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:21:43.499+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:21:43.501+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:43.500+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:21:43.511+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:21:43.547+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:43.546+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:21:43.557+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:43.557+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:21:43.575+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.084 seconds
+[2024-06-23T23:22:13.911+0700] {processor.py:161} INFO - Started process (PID=18498) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:22:13.913+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:22:13.914+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:13.914+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:22:13.923+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:22:13.956+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:13.955+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:22:14.103+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:14.103+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:22:14.122+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.218 seconds
+[2024-06-23T23:22:45.094+0700] {processor.py:161} INFO - Started process (PID=18621) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:22:45.096+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:22:45.097+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:45.097+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:22:45.106+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:22:45.140+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:45.140+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:22:45.152+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:45.152+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:22:45.284+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.197 seconds
+[2024-06-23T23:23:15.664+0700] {processor.py:161} INFO - Started process (PID=18744) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:23:15.665+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:23:15.666+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:15.666+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:23:15.676+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:23:15.712+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:15.711+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:23:15.722+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:15.722+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:23:15.742+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-06-23T23:23:46.861+0700] {processor.py:161} INFO - Started process (PID=18866) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:23:46.862+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:23:46.864+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:46.864+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:23:46.873+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:23:46.909+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:46.908+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:23:46.929+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:46.929+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:23:46.961+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2024-06-23T23:24:17.850+0700] {processor.py:161} INFO - Started process (PID=18988) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:24:17.852+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:24:17.853+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:17.853+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:24:17.863+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:24:17.900+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:17.900+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:24:17.912+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:17.911+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:24:17.931+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-06-23T23:24:48.770+0700] {processor.py:161} INFO - Started process (PID=19108) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:24:48.772+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:24:48.773+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:48.773+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:24:48.787+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:24:48.821+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:48.821+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:24:48.833+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:48.832+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:24:48.851+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-06-23T23:25:18.999+0700] {processor.py:161} INFO - Started process (PID=19233) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:25:19.001+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:25:19.003+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:19.003+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:25:19.023+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:25:19.069+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:19.068+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:25:19.079+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:19.079+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:25:19.098+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2024-06-23T23:25:49.131+0700] {processor.py:161} INFO - Started process (PID=19353) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:25:49.132+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:25:49.134+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:49.133+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:25:49.141+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:25:49.174+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:49.174+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:25:49.186+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:49.185+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:25:49.204+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-06-23T23:26:19.243+0700] {processor.py:161} INFO - Started process (PID=19486) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:26:19.244+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:26:19.246+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:19.246+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:26:19.255+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:26:19.286+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:19.286+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:26:19.298+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:19.297+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:26:19.314+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2024-06-23T23:26:50.063+0700] {processor.py:161} INFO - Started process (PID=19607) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:26:50.064+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:26:50.066+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:50.066+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:26:50.074+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:26:50.105+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:50.105+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:26:50.116+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:50.115+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:26:50.132+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2024-06-23T23:27:20.892+0700] {processor.py:161} INFO - Started process (PID=19730) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:27:20.893+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:27:20.895+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:20.894+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:27:20.903+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:27:20.935+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:20.935+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:27:20.945+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:20.945+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:27:20.964+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.078 seconds
+[2024-06-23T23:27:51.884+0700] {processor.py:161} INFO - Started process (PID=19852) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:27:51.885+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:27:51.886+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:51.886+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:27:51.894+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:27:51.927+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:51.927+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:27:51.939+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:51.939+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:27:51.956+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.079 seconds
+[2024-06-23T23:28:22.735+0700] {processor.py:161} INFO - Started process (PID=20041) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:28:22.736+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:28:22.738+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:22.737+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:28:22.746+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:28:22.780+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:22.780+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:28:22.791+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:22.790+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:28:22.809+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2024-06-23T23:28:52.876+0700] {processor.py:161} INFO - Started process (PID=20164) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:28:52.877+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:28:52.879+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:52.878+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:28:52.889+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:28:52.923+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:52.923+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:28:52.935+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:52.935+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:28:52.955+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-06-23T23:29:23.047+0700] {processor.py:161} INFO - Started process (PID=20287) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:29:23.049+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:29:23.051+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:23.051+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:29:23.062+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:29:23.096+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:23.095+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:29:23.109+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:23.109+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:29:23.126+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-06-23T23:29:53.257+0700] {processor.py:161} INFO - Started process (PID=20410) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:29:53.258+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:29:53.259+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:53.259+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:29:53.268+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:29:53.303+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:53.302+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:29:53.313+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:53.313+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:29:53.335+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-06-23T23:30:23.395+0700] {processor.py:161} INFO - Started process (PID=20535) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:30:23.396+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:30:23.397+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:23.397+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:30:23.407+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:30:23.442+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:23.441+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:30:23.453+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:23.453+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:30:23.473+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-06-23T23:30:53.727+0700] {processor.py:161} INFO - Started process (PID=20659) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:30:53.729+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:30:53.731+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:53.730+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:30:53.744+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:30:53.787+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:53.787+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:30:53.798+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:53.798+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:30:53.818+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2024-06-23T23:31:24.528+0700] {processor.py:161} INFO - Started process (PID=20779) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:31:24.529+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:31:24.530+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:24.530+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:31:24.541+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:31:24.577+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:24.576+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:31:24.590+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:24.590+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:31:24.609+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-06-23T23:31:55.370+0700] {processor.py:161} INFO - Started process (PID=20902) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:31:55.371+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:31:55.373+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:55.373+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:31:55.381+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:31:55.415+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:55.415+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:31:55.427+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:55.427+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:31:55.445+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2024-06-23T23:32:26.113+0700] {processor.py:161} INFO - Started process (PID=21022) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:32:26.114+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:32:26.115+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:26.115+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:32:26.125+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:32:26.158+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:26.157+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:32:26.170+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:26.169+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:32:26.189+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-06-23T23:32:56.988+0700] {processor.py:161} INFO - Started process (PID=21147) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:32:56.989+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:32:56.991+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:56.991+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:32:56.999+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:32:57.035+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:57.034+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:32:57.046+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:57.046+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:32:57.064+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2024-06-23T23:33:27.877+0700] {processor.py:161} INFO - Started process (PID=21268) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:33:27.878+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:33:27.880+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:27.879+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:33:27.888+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:33:27.923+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:27.923+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:33:27.934+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:27.933+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:33:27.950+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-06-23T23:33:58.788+0700] {processor.py:161} INFO - Started process (PID=21392) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:33:58.790+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:33:58.791+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:58.791+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:33:58.800+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:33:58.835+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:58.835+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:33:58.848+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:58.848+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:33:58.867+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-06-23T23:34:29.480+0700] {processor.py:161} INFO - Started process (PID=21513) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:34:29.481+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:34:29.482+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:34:29.482+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:34:29.492+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:34:29.533+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:34:29.532+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:34:29.545+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:34:29.545+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:34:29.563+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-06-23T23:35:00.621+0700] {processor.py:161} INFO - Started process (PID=21636) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:35:00.623+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:35:00.625+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:00.624+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:35:00.633+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:35:00.667+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:00.666+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:35:00.678+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:00.677+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:35:00.697+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-06-23T23:35:30.823+0700] {processor.py:161} INFO - Started process (PID=21759) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:35:30.824+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:35:30.826+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:30.825+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:35:30.834+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:35:30.869+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:30.869+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:35:30.884+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:30.883+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:35:30.903+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-06-23T23:36:01.865+0700] {processor.py:161} INFO - Started process (PID=21885) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:36:01.866+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:36:01.867+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:01.867+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:36:01.877+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:36:01.913+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:01.912+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:36:01.925+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:01.925+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:36:01.944+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-06-23T23:36:32.609+0700] {processor.py:161} INFO - Started process (PID=22008) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:36:32.610+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:36:32.611+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:32.611+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:36:32.619+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:36:32.654+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:32.653+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:36:32.666+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:32.666+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:36:32.683+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-06-23T23:37:03.319+0700] {processor.py:161} INFO - Started process (PID=22133) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:37:03.320+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:37:03.322+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:03.321+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:37:03.332+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:37:03.367+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:03.366+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:37:03.379+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:03.378+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:37:03.398+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-06-23T23:37:33.948+0700] {processor.py:161} INFO - Started process (PID=22253) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:37:33.949+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:37:33.951+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:33.951+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:37:33.960+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:37:33.996+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:33.996+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:37:34.007+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:34.007+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:37:34.027+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-06-23T23:38:04.674+0700] {processor.py:161} INFO - Started process (PID=22374) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:38:04.675+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:38:04.677+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:04.677+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:38:04.687+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:38:04.734+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:04.734+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:38:04.748+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:04.747+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:38:04.767+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2024-06-23T23:38:35.362+0700] {processor.py:161} INFO - Started process (PID=22497) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:38:35.363+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:38:35.365+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:35.365+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:38:35.374+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:38:35.415+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:35.414+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:38:35.428+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:35.427+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:38:35.447+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2024-06-23T23:39:06.130+0700] {processor.py:161} INFO - Started process (PID=22618) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:39:06.131+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:39:06.133+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:06.132+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:39:06.142+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:39:06.176+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:06.176+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:39:06.188+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:06.188+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:39:06.208+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-06-23T23:39:37.025+0700] {processor.py:161} INFO - Started process (PID=22742) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:39:37.025+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:39:37.028+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:37.027+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:39:37.038+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:39:37.073+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:37.073+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:39:37.088+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:37.088+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:39:37.108+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-06-23T23:40:07.677+0700] {processor.py:161} INFO - Started process (PID=22865) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:40:07.679+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:40:07.682+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:40:07.681+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:40:07.691+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:40:07.726+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:40:07.726+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:40:07.739+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:40:07.739+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:40:07.757+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-06-23T23:48:13.178+0700] {processor.py:161} INFO - Started process (PID=23079) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:48:13.179+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:48:13.181+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:13.180+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:48:13.190+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:48:13.236+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:13.236+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:48:13.280+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:13.278+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:48:13.317+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.145 seconds
+[2024-06-23T23:48:43.769+0700] {processor.py:161} INFO - Started process (PID=23256) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:48:43.771+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:48:43.773+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:43.773+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:48:43.786+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:48:43.829+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:43.829+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:48:43.842+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:43.841+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:48:43.862+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2024-06-23T23:49:14.099+0700] {processor.py:161} INFO - Started process (PID=23381) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:49:14.100+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:49:14.103+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:14.102+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:49:14.113+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:49:14.146+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:14.146+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:49:14.157+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:14.157+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:49:14.176+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-06-23T23:49:44.446+0700] {processor.py:161} INFO - Started process (PID=23503) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:49:44.447+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:49:44.449+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:44.448+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:49:44.458+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:49:44.492+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:44.491+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:49:44.502+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:44.502+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:49:44.519+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-06-23T23:50:14.671+0700] {processor.py:161} INFO - Started process (PID=23625) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:50:14.672+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:50:14.673+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:14.673+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:50:14.681+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:50:14.712+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:14.712+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:50:14.723+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:14.723+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:50:14.739+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2024-06-23T23:50:44.850+0700] {processor.py:161} INFO - Started process (PID=23746) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:50:44.851+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:50:44.853+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:44.852+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:50:44.862+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:50:44.898+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:44.898+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:50:44.910+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:44.910+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:50:44.931+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-06-23T23:51:15.881+0700] {processor.py:161} INFO - Started process (PID=23868) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:51:15.883+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:51:15.886+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:15.886+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:51:15.897+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:51:15.935+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:15.935+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:51:15.946+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:15.946+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:51:15.967+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2024-06-23T23:51:46.417+0700] {processor.py:161} INFO - Started process (PID=23990) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:51:46.419+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:51:46.421+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:46.420+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:51:46.429+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:51:46.463+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:46.462+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:51:46.474+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:46.473+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:51:46.491+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-06-23T23:52:16.659+0700] {processor.py:161} INFO - Started process (PID=24112) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:52:16.659+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:52:16.661+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:16.660+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:52:16.669+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:52:16.701+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:16.701+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:52:16.712+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:16.711+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:52:16.728+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2024-06-23T23:52:46.793+0700] {processor.py:161} INFO - Started process (PID=24233) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:52:46.795+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:52:46.797+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:46.797+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:52:46.806+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:52:46.841+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:46.841+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:52:46.854+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:46.854+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:52:46.873+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2024-06-23T23:53:16.982+0700] {processor.py:161} INFO - Started process (PID=24384) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:53:16.983+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:53:16.985+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:16.985+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:53:16.995+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:53:17.037+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:17.037+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:53:17.051+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:17.051+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:53:17.075+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2024-06-23T23:53:47.779+0700] {processor.py:161} INFO - Started process (PID=24505) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:53:47.780+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:53:47.782+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:47.782+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:53:47.792+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:53:47.830+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:47.830+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:53:47.844+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:47.843+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:53:47.864+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2024-06-23T23:54:18.677+0700] {processor.py:161} INFO - Started process (PID=24628) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:54:18.679+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-23T23:54:18.680+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:54:18.680+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:54:18.689+0700] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-06-23T23:54:18.722+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:54:18.722+0700] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-23T23:54:18.734+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:54:18.734+0700] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-23T23:54:18.757+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds

@@ -1,0 +1,21 @@
+[2024-06-24T13:56:53.394+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-06-24T13:56:53.421+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: user_processing.extract_user manual__2024-06-24T06:50:17.142537+00:00 [queued]>
+[2024-06-24T13:56:53.432+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: user_processing.extract_user manual__2024-06-24T06:50:17.142537+00:00 [queued]>
+[2024-06-24T13:56:53.433+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-06-24T13:56:53.447+0700] {taskinstance.py:2330} INFO - Executing <Task(SimpleHttpOperator): extract_user> on 2024-06-24 06:50:17.142537+00:00
+[2024-06-24T13:56:53.454+0700] {standard_task_runner.py:63} INFO - Started process 63017 to run task
+[2024-06-24T13:56:53.458+0700] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'user_processing', 'extract_user', 'manual__2024-06-24T06:50:17.142537+00:00', '--job-id', '35', '--raw', '--subdir', 'DAGS_FOLDER/user_processing.py', '--cfg-path', '/tmp/tmph45cv_nd']
+[2024-06-24T13:56:53.460+0700] {standard_task_runner.py:91} INFO - Job 35: Subtask extract_user
+[2024-06-24T13:56:53.530+0700] {task_command.py:426} INFO - Running <TaskInstance: user_processing.extract_user manual__2024-06-24T06:50:17.142537+00:00 [running]> on host daniel
+[2024-06-24T13:56:53.626+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='user_processing' AIRFLOW_CTX_TASK_ID='extract_user' AIRFLOW_CTX_EXECUTION_DATE='2024-06-24T06:50:17.142537+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-06-24T06:50:17.142537+00:00'
+[2024-06-24T13:56:53.627+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-06-24T13:56:53.627+0700] {http.py:169} INFO - Calling HTTP method
+[2024-06-24T13:56:53.639+0700] {base.py:84} INFO - Using connection ID 'user_api' for task execution.
+[2024-06-24T13:56:53.650+0700] {base.py:84} INFO - Using connection ID 'user_api' for task execution.
+[2024-06-24T13:56:54.151+0700] {http.py:208} INFO - {"results":[{"gender":"male","name":{"title":"Mr","first":"Adolfo","last":"Romero"},"location":{"street":{"number":5883,"name":"Calle de Arganzuela"},"city":"Cuenca","state":"Comunidad Valenciana","country":"Spain","postcode":96960,"coordinates":{"latitude":"-31.7653","longitude":"-157.6118"},"timezone":{"offset":"+4:00","description":"Abu Dhabi, Muscat, Baku, Tbilisi"}},"email":"adolfo.romero@example.com","login":{"uuid":"0ca9438f-369b-4f57-94be-015419c3a572","username":"sadwolf118","password":"dodger","salt":"oyKQ9wE1","md5":"7d84876c7d48821e3715f5f885a4f3bf","sha1":"a2d5e8f67c6eaceaeeed9485ccbb20ea6e0a774f","sha256":"1052edd7188fd4abe888b1ca849a86481e6c3d575283fc2cba18e75d93c1a7f7"},"dob":{"date":"1948-03-28T19:57:44.254Z","age":76},"registered":{"date":"2008-07-16T04:45:23.576Z","age":15},"phone":"905-726-341","cell":"606-622-155","id":{"name":"DNI","value":"09169520-C"},"picture":{"large":"https://randomuser.me/api/portraits/men/30.jpg","medium":"https://randomuser.me/api/portraits/med/men/30.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/30.jpg"},"nat":"ES"}],"info":{"seed":"a201b9147e482753","results":1,"page":1,"version":"1.4"}}
+[2024-06-24T13:56:54.153+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-06-24T13:56:54.183+0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=user_processing, task_id=extract_user, run_id=manual__2024-06-24T06:50:17.142537+00:00, execution_date=20240624T065017, start_date=20240624T065653, end_date=20240624T065654
+[2024-06-24T13:56:54.200+0700] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-06-24T13:56:54.219+0700] {logging_mixin.py:188} WARNING - /home/daniel/***/venv/lib/python3.10/site-packages/***/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class SimpleHttpOperator. (Class `SimpleHttpOperator` is deprecated and will be removed in a future release. Please use `HttpOperator` instead.)
+[2024-06-24T13:56:54.233+0700] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-06-24T13:56:54.234+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

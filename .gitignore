@@ -1,0 +1,11 @@
+./standalone_admin_password.txt
+./airflow-webserver.pid
+./airflow.db
+./webserver_config.py
+
+./venv
+./.env
+./logs
+./docs
+./tmp
+./configs

@@ -1,0 +1,26 @@
+from airflow import DAG
+from airflow.operators.bash import BashOperator
+
+
+def subdag_downloads(parent_dag_id, child_dag_id, agrs):
+
+    with DAG(f"{parent_dag_id}.{child_dag_id}",
+             start_date=agrs['start_date'],
+             schedule_interval=agrs['schedule_interval'],
+             catchup=agrs['catchup']) as dag:
+
+        download_a = BashOperator(
+            task_id='download_a',
+            bash_command='sleep 10'
+        )
+
+        download_b = BashOperator(
+            task_id='download_b',
+            bash_command='sleep 10'
+        )
+
+        download_c = BashOperator(
+            task_id='download_c',
+            bash_command='sleep 10'
+        )
+        return dag

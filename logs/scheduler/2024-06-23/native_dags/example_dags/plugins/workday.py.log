@@ -1,0 +1,726 @@
+[2024-06-23T22:46:00.293+0700] {processor.py:161} INFO - Started process (PID=7315) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:46:00.293+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:46:00.295+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:00.295+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:46:00.297+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:00.297+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:46:00.297+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:46:00.314+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T22:46:31.187+0700] {processor.py:161} INFO - Started process (PID=7436) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:46:31.189+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:46:31.190+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:31.189+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:46:31.192+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:46:31.191+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:46:31.192+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:46:31.209+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T22:47:01.938+0700] {processor.py:161} INFO - Started process (PID=7553) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:47:01.939+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:47:01.940+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:01.940+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:47:01.942+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:01.942+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:47:01.943+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:47:01.960+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T22:47:32.930+0700] {processor.py:161} INFO - Started process (PID=7657) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:47:32.931+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:47:32.933+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:32.932+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:47:32.935+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:47:32.935+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:47:32.935+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:47:32.954+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T22:48:03.083+0700] {processor.py:161} INFO - Started process (PID=7766) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:48:03.084+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:48:03.085+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:03.085+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:48:03.087+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:03.087+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:48:03.088+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:48:03.105+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T22:48:33.709+0700] {processor.py:161} INFO - Started process (PID=7870) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:48:33.710+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:48:33.711+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:33.711+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:48:33.713+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:48:33.713+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:48:33.713+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:48:33.731+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T22:49:04.139+0700] {processor.py:161} INFO - Started process (PID=7981) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:49:04.140+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:49:04.141+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:04.141+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:49:04.144+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:04.143+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:49:04.144+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:49:04.162+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T22:49:34.574+0700] {processor.py:161} INFO - Started process (PID=8552) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:49:34.575+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:49:34.577+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:34.576+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:49:34.579+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:49:34.579+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:49:34.579+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:49:34.596+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-06-23T22:50:04.960+0700] {processor.py:161} INFO - Started process (PID=8659) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:50:04.961+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:50:04.962+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:04.962+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:50:04.964+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:04.964+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:50:04.964+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:50:04.983+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T22:50:35.569+0700] {processor.py:161} INFO - Started process (PID=8762) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:50:35.570+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:50:35.572+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:35.571+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:50:35.574+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:50:35.574+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:50:35.574+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:50:35.592+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T22:51:05.999+0700] {processor.py:161} INFO - Started process (PID=8868) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:51:06.000+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:51:06.002+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:06.002+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:51:06.005+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:06.005+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:51:06.005+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:51:06.024+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-06-23T22:51:36.531+0700] {processor.py:161} INFO - Started process (PID=8971) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:51:36.532+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:51:36.533+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:36.533+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:51:36.536+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:51:36.535+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:51:36.536+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:51:36.555+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T22:52:07.130+0700] {processor.py:161} INFO - Started process (PID=9080) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:52:07.131+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:52:07.132+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:07.132+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:52:07.135+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:07.135+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:52:07.135+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:52:07.155+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T22:52:37.691+0700] {processor.py:161} INFO - Started process (PID=9182) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:52:37.692+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:52:37.693+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:37.693+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:52:37.695+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:52:37.695+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:52:37.695+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:52:37.713+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T22:53:08.180+0700] {processor.py:161} INFO - Started process (PID=9287) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:53:08.182+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:53:08.183+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:08.183+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:53:08.185+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:08.185+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:53:08.185+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:53:08.204+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T22:53:39.447+0700] {processor.py:161} INFO - Started process (PID=9556) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:53:39.449+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:53:39.452+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:39.451+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:53:39.455+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:53:39.455+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:53:39.456+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:53:39.502+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.064 seconds
+[2024-06-23T22:54:09.946+0700] {processor.py:161} INFO - Started process (PID=9673) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:54:09.947+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:54:09.948+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:09.948+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:54:09.951+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:09.951+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:54:09.951+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:54:09.971+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T22:54:40.901+0700] {processor.py:161} INFO - Started process (PID=9789) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:54:40.902+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:54:40.904+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:40.904+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:54:40.907+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:54:40.906+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:54:40.907+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:54:40.928+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T22:55:11.843+0700] {processor.py:161} INFO - Started process (PID=9980) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:55:11.844+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:55:11.845+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:11.845+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:55:11.848+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:11.847+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:55:11.848+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:55:11.866+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T22:55:42.424+0700] {processor.py:161} INFO - Started process (PID=10122) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:55:42.425+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:55:42.426+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:42.426+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:55:42.429+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:55:42.429+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:55:42.429+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:55:42.448+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-06-23T22:56:13.079+0700] {processor.py:161} INFO - Started process (PID=10278) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:56:13.080+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:56:13.081+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:13.081+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:56:13.083+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:13.083+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:56:13.084+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:56:13.102+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T22:56:43.522+0700] {processor.py:161} INFO - Started process (PID=10401) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:56:43.523+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:56:43.524+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:43.524+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:56:43.527+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:56:43.526+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:56:43.527+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:56:43.544+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T22:57:14.098+0700] {processor.py:161} INFO - Started process (PID=10552) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:57:14.099+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:57:14.101+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:14.100+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:57:14.104+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:14.103+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:57:14.104+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:57:14.131+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.056 seconds
+[2024-06-23T22:57:45.001+0700] {processor.py:161} INFO - Started process (PID=10686) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:57:45.002+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:57:45.004+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:45.003+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:57:45.007+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:57:45.006+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:57:45.007+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:57:45.024+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T22:58:15.697+0700] {processor.py:161} INFO - Started process (PID=10816) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:58:15.698+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:58:15.699+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:15.699+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:58:15.701+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:15.701+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:58:15.702+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:58:15.719+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T22:58:46.372+0700] {processor.py:161} INFO - Started process (PID=10941) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:58:46.373+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:58:46.375+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:46.374+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:58:46.377+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:58:46.377+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:58:46.377+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:58:46.396+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T22:59:16.843+0700] {processor.py:161} INFO - Started process (PID=11066) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:59:16.844+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:59:16.845+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:16.845+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:59:16.848+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:16.847+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:59:16.848+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:59:16.868+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T22:59:46.944+0700] {processor.py:161} INFO - Started process (PID=11187) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:59:46.945+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T22:59:46.947+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:46.947+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:59:46.949+0700] {logging_mixin.py:188} INFO - [2024-06-23T22:59:46.949+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T22:59:46.949+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T22:59:46.968+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T23:00:17.627+0700] {processor.py:161} INFO - Started process (PID=11307) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:00:17.628+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:00:17.630+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:17.629+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:00:17.632+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:17.632+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:00:17.632+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:00:17.648+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:00:48.095+0700] {processor.py:161} INFO - Started process (PID=11438) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:00:48.096+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:00:48.098+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:48.097+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:00:48.100+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:00:48.100+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:00:48.100+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:00:48.116+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-06-23T23:01:18.535+0700] {processor.py:161} INFO - Started process (PID=11565) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:01:18.536+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:01:18.537+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:18.537+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:01:18.540+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:18.539+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:01:18.540+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:01:18.557+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:01:49.131+0700] {processor.py:161} INFO - Started process (PID=11725) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:01:49.132+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:01:49.133+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:49.133+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:01:49.135+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:01:49.135+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:01:49.135+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:01:49.153+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:02:19.539+0700] {processor.py:161} INFO - Started process (PID=11954) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:02:19.540+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:02:19.542+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:19.541+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:02:19.544+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:19.544+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:02:19.544+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:02:19.560+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:02:49.833+0700] {processor.py:161} INFO - Started process (PID=12257) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:02:49.835+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:02:49.836+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:49.836+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:02:49.838+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:02:49.838+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:02:49.839+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:02:49.858+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T23:03:20.272+0700] {processor.py:161} INFO - Started process (PID=12425) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:03:20.273+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:03:20.274+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:20.274+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:03:20.276+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:20.276+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:03:20.276+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:03:20.293+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-06-23T23:03:50.609+0700] {processor.py:161} INFO - Started process (PID=12562) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:03:50.610+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:03:50.611+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:50.611+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:03:50.613+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:03:50.613+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:03:50.614+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:03:50.631+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:04:21.071+0700] {processor.py:161} INFO - Started process (PID=12698) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:04:21.072+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:04:21.073+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:21.073+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:04:21.075+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:21.075+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:04:21.076+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:04:21.093+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:04:51.528+0700] {processor.py:161} INFO - Started process (PID=12829) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:04:51.529+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:04:51.530+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:51.530+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:04:51.532+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:04:51.532+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:04:51.533+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:04:51.550+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:05:22.199+0700] {processor.py:161} INFO - Started process (PID=12967) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:05:22.200+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:05:22.201+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:22.201+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:05:22.204+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:22.204+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:05:22.204+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:05:22.222+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T23:05:52.810+0700] {processor.py:161} INFO - Started process (PID=13093) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:05:52.811+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:05:52.813+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:52.812+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:05:52.815+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:05:52.815+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:05:52.815+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:05:52.833+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:06:23.241+0700] {processor.py:161} INFO - Started process (PID=13671) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:06:23.243+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:06:23.244+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:23.244+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:06:23.246+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:23.246+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:06:23.247+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:06:23.263+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:06:53.846+0700] {processor.py:161} INFO - Started process (PID=13900) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:06:53.847+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:06:53.848+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:53.848+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:06:53.850+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:06:53.850+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:06:53.851+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:06:53.869+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:07:24.368+0700] {processor.py:161} INFO - Started process (PID=14041) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:07:24.369+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:07:24.371+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:24.370+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:07:24.373+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:24.373+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:07:24.373+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:07:24.391+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:07:54.769+0700] {processor.py:161} INFO - Started process (PID=14168) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:07:54.770+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:07:54.771+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:54.771+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:07:54.773+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:07:54.773+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:07:54.773+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:07:54.795+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:08:25.169+0700] {processor.py:161} INFO - Started process (PID=14593) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:08:25.170+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:08:25.171+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:25.171+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:08:25.173+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:25.173+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:08:25.173+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:08:25.191+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:08:55.503+0700] {processor.py:161} INFO - Started process (PID=14803) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:08:55.504+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:08:55.505+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:55.505+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:08:55.507+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:08:55.507+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:08:55.508+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:08:55.525+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:09:25.935+0700] {processor.py:161} INFO - Started process (PID=14929) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:09:25.936+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:09:25.938+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:09:25.937+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:09:25.940+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:09:25.940+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:09:25.940+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:09:25.959+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:09:56.642+0700] {processor.py:161} INFO - Started process (PID=15052) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:09:56.643+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:09:56.645+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:09:56.645+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:09:56.649+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:09:56.649+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:09:56.650+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:09:56.675+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.039 seconds
+[2024-06-23T23:10:26.810+0700] {processor.py:161} INFO - Started process (PID=15176) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:10:26.812+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:10:26.813+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:26.813+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:10:26.816+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:26.816+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:10:26.816+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:10:26.836+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-06-23T23:10:56.906+0700] {processor.py:161} INFO - Started process (PID=15296) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:10:56.907+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:10:56.908+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:56.908+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:10:56.911+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:10:56.910+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:10:56.911+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:10:56.931+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-06-23T23:11:26.984+0700] {processor.py:161} INFO - Started process (PID=15419) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:11:26.985+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:11:26.987+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:26.986+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:11:26.989+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:26.989+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:11:26.989+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:11:27.008+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:11:57.515+0700] {processor.py:161} INFO - Started process (PID=15542) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:11:57.516+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:11:57.518+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:57.518+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:11:57.520+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:11:57.520+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:11:57.520+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:11:57.538+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:12:27.908+0700] {processor.py:161} INFO - Started process (PID=15765) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:12:27.909+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:12:27.910+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:27.910+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:12:27.912+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:27.912+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:12:27.913+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:12:27.929+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:12:58.255+0700] {processor.py:161} INFO - Started process (PID=16066) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:12:58.256+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:12:58.257+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:58.257+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:12:58.261+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:12:58.260+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:12:58.261+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:12:58.280+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:13:28.741+0700] {processor.py:161} INFO - Started process (PID=16189) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:13:28.742+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:13:28.743+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:28.743+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:13:28.745+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:28.745+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:13:28.746+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:13:28.763+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:13:59.087+0700] {processor.py:161} INFO - Started process (PID=16311) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:13:59.088+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:13:59.089+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:59.089+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:13:59.092+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:13:59.092+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:13:59.092+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:13:59.110+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:14:29.618+0700] {processor.py:161} INFO - Started process (PID=16435) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:14:29.619+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:14:29.620+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:14:29.620+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:14:29.623+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:14:29.622+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:14:29.623+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:14:29.644+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:15:00.328+0700] {processor.py:161} INFO - Started process (PID=16556) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:15:00.329+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:15:00.331+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:00.330+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:15:00.333+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:00.333+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:15:00.333+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:15:00.353+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T23:15:30.840+0700] {processor.py:161} INFO - Started process (PID=16691) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:15:30.841+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:15:30.842+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:30.842+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:15:30.844+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:15:30.844+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:15:30.845+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:15:30.862+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:16:01.647+0700] {processor.py:161} INFO - Started process (PID=16833) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:16:01.648+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:16:01.649+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:01.649+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:16:01.651+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:01.651+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:16:01.651+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:16:01.669+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:16:32.259+0700] {processor.py:161} INFO - Started process (PID=16969) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:16:32.260+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:16:32.261+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:32.261+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:16:32.263+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:16:32.263+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:16:32.264+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:16:32.281+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:17:03.038+0700] {processor.py:161} INFO - Started process (PID=17095) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:17:03.039+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:17:03.040+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:03.040+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:17:03.042+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:03.042+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:17:03.042+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:17:03.059+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:17:33.350+0700] {processor.py:161} INFO - Started process (PID=17217) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:17:33.351+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:17:33.352+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:33.352+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:17:33.354+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:17:33.354+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:17:33.354+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:17:33.371+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:18:03.774+0700] {processor.py:161} INFO - Started process (PID=17341) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:18:03.775+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:18:03.776+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:03.776+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:18:03.778+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:03.778+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:18:03.778+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:18:03.795+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:18:33.969+0700] {processor.py:161} INFO - Started process (PID=17463) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:18:33.969+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:18:33.971+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:33.970+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:18:33.973+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:18:33.973+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:18:33.973+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:18:33.991+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-06-23T23:19:04.376+0700] {processor.py:161} INFO - Started process (PID=17648) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:19:04.377+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:19:04.378+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:04.378+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:19:04.381+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:04.380+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:19:04.381+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:19:04.398+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-06-23T23:19:34.957+0700] {processor.py:161} INFO - Started process (PID=17778) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:19:34.958+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:19:34.960+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:34.960+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:19:34.963+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:19:34.963+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:19:34.963+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:19:34.987+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.037 seconds
+[2024-06-23T23:20:05.423+0700] {processor.py:161} INFO - Started process (PID=17903) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:20:05.423+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:20:05.425+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:05.425+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:20:05.427+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:05.427+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:20:05.428+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:20:05.447+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T23:20:36.030+0700] {processor.py:161} INFO - Started process (PID=18043) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:20:36.031+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:20:36.032+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:36.032+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:20:36.034+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:20:36.034+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:20:36.034+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:20:36.052+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:21:06.907+0700] {processor.py:161} INFO - Started process (PID=18168) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:21:06.908+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:21:06.910+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:06.909+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:21:06.912+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:06.911+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:21:06.912+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:21:06.931+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:21:37.963+0700] {processor.py:161} INFO - Started process (PID=18289) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:21:37.964+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:21:37.966+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:37.966+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:21:37.970+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:21:37.970+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:21:37.971+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:21:37.998+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.045 seconds
+[2024-06-23T23:22:08.237+0700] {processor.py:161} INFO - Started process (PID=18412) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:22:08.238+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:22:08.239+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:08.239+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:22:08.242+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:08.242+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:22:08.243+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:22:08.263+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:22:38.817+0700] {processor.py:161} INFO - Started process (PID=18539) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:22:38.821+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:22:38.823+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:38.822+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:22:38.829+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:22:38.828+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:22:38.829+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:22:38.859+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.051 seconds
+[2024-06-23T23:23:09.360+0700] {processor.py:161} INFO - Started process (PID=18661) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:23:09.362+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:23:09.363+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:09.363+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:23:09.365+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:09.365+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:23:09.366+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:23:09.385+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:23:39.851+0700] {processor.py:161} INFO - Started process (PID=18783) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:23:39.852+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:23:39.853+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:39.853+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:23:39.855+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:23:39.855+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:23:39.856+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:23:39.877+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:24:10.175+0700] {processor.py:161} INFO - Started process (PID=18903) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:24:10.176+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:24:10.178+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:10.178+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:24:10.181+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:10.181+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:24:10.182+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:24:10.202+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:24:40.578+0700] {processor.py:161} INFO - Started process (PID=19025) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:24:40.579+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:24:40.581+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:40.581+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:24:40.584+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:24:40.583+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:24:40.584+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:24:40.604+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:25:10.733+0700] {processor.py:161} INFO - Started process (PID=19150) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:25:10.735+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:25:10.736+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:10.736+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:25:10.738+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:10.738+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:25:10.739+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:25:10.762+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.036 seconds
+[2024-06-23T23:25:40.913+0700] {processor.py:161} INFO - Started process (PID=19272) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:25:40.914+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:25:40.916+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:40.916+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:25:40.918+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:25:40.918+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:25:40.918+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:25:40.938+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:26:11.034+0700] {processor.py:161} INFO - Started process (PID=19403) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:26:11.035+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:26:11.036+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:11.036+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:26:11.038+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:11.038+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:26:11.038+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:26:11.058+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:26:41.976+0700] {processor.py:161} INFO - Started process (PID=19525) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:26:41.977+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:26:41.979+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:41.979+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:26:41.983+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:26:41.982+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:26:41.983+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:26:42.003+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:27:12.869+0700] {processor.py:161} INFO - Started process (PID=19649) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:27:12.870+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:27:12.871+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:12.871+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:27:12.873+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:12.873+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:27:12.873+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:27:12.895+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:27:43.684+0700] {processor.py:161} INFO - Started process (PID=19771) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:27:43.685+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:27:43.686+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:43.686+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:27:43.689+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:27:43.689+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:27:43.689+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:27:43.710+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.035 seconds
+[2024-06-23T23:28:14.697+0700] {processor.py:161} INFO - Started process (PID=19960) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:28:14.699+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:28:14.700+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:14.700+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:28:14.703+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:14.703+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:28:14.703+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:28:14.724+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:28:45.504+0700] {processor.py:161} INFO - Started process (PID=20082) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:28:45.506+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:28:45.507+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:45.507+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:28:45.509+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:28:45.509+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:28:45.509+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:28:45.529+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:29:15.686+0700] {processor.py:161} INFO - Started process (PID=20206) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:29:15.688+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:29:15.689+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:15.689+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:29:15.691+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:15.691+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:29:15.692+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:29:15.712+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:29:45.938+0700] {processor.py:161} INFO - Started process (PID=20329) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:29:45.939+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:29:45.941+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:45.941+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:29:45.943+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:29:45.943+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:29:45.943+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:29:45.964+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:30:16.189+0700] {processor.py:161} INFO - Started process (PID=20455) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:30:16.189+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:30:16.191+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:16.190+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:30:16.193+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:16.193+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:30:16.193+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:30:16.213+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:30:46.332+0700] {processor.py:161} INFO - Started process (PID=20577) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:30:46.334+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:30:46.336+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:46.336+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:30:46.339+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:30:46.339+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:30:46.339+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:30:46.359+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:31:16.499+0700] {processor.py:161} INFO - Started process (PID=20698) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:31:16.501+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:31:16.503+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:16.502+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:31:16.505+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:16.505+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:31:16.506+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:31:16.527+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:31:47.346+0700] {processor.py:161} INFO - Started process (PID=20820) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:31:47.347+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:31:47.349+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:47.349+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:31:47.352+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:31:47.352+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:31:47.353+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:31:47.374+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:32:18.100+0700] {processor.py:161} INFO - Started process (PID=20941) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:32:18.102+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:32:18.104+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:18.104+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:32:18.107+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:18.107+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:32:18.107+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:32:18.126+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:32:48.893+0700] {processor.py:161} INFO - Started process (PID=21065) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:32:48.895+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:32:48.896+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:48.896+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:32:48.898+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:32:48.898+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:32:48.898+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:32:48.922+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.035 seconds
+[2024-06-23T23:33:19.700+0700] {processor.py:161} INFO - Started process (PID=21187) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:33:19.700+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:33:19.702+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:19.702+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:33:19.706+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:19.705+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:33:19.706+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:33:19.729+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.035 seconds
+[2024-06-23T23:33:50.651+0700] {processor.py:161} INFO - Started process (PID=21309) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:33:50.653+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:33:50.655+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:50.655+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:33:50.658+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:33:50.658+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:33:50.659+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:33:50.682+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.036 seconds
+[2024-06-23T23:34:21.510+0700] {processor.py:161} INFO - Started process (PID=21433) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:34:21.511+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:34:21.512+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:34:21.512+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:34:21.514+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:34:21.514+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:34:21.515+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:34:21.534+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-06-23T23:34:52.292+0700] {processor.py:161} INFO - Started process (PID=21553) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:34:52.293+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:34:52.294+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:34:52.294+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:34:52.297+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:34:52.296+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:34:52.297+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:34:52.316+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:35:22.417+0700] {processor.py:161} INFO - Started process (PID=21679) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:35:22.418+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:35:22.420+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:22.419+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:35:22.423+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:22.423+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:35:22.424+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:35:22.446+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:35:52.714+0700] {processor.py:161} INFO - Started process (PID=21802) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:35:52.715+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:35:52.716+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:52.716+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:35:52.719+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:35:52.719+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:35:52.719+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:35:52.748+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.041 seconds
+[2024-06-23T23:36:23.635+0700] {processor.py:161} INFO - Started process (PID=21926) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:36:23.636+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:36:23.637+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:23.637+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:36:23.640+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:23.640+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:36:23.640+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:36:23.663+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:36:54.311+0700] {processor.py:161} INFO - Started process (PID=22049) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:36:54.312+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:36:54.313+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:54.313+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:36:54.316+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:36:54.316+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:36:54.316+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:36:54.337+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:37:25.004+0700] {processor.py:161} INFO - Started process (PID=22169) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:37:25.005+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:37:25.006+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:25.006+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:37:25.009+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:25.009+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:37:25.010+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:37:25.031+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2024-06-23T23:37:55.648+0700] {processor.py:161} INFO - Started process (PID=22292) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:37:55.649+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:37:55.650+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:55.650+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:37:55.652+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:37:55.652+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:37:55.653+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:37:55.672+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-06-23T23:38:26.391+0700] {processor.py:161} INFO - Started process (PID=22412) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:38:26.392+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:38:26.394+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:26.393+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:38:26.397+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:26.396+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:38:26.397+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:38:26.418+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:38:57.106+0700] {processor.py:161} INFO - Started process (PID=22536) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:38:57.108+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:38:57.111+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:57.110+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:38:57.114+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:38:57.114+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:38:57.115+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:38:57.148+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2024-06-23T23:39:27.845+0700] {processor.py:161} INFO - Started process (PID=22657) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:39:27.847+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:39:27.848+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:27.848+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:39:27.850+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:27.850+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:39:27.850+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:39:27.870+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:39:58.608+0700] {processor.py:161} INFO - Started process (PID=22779) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:39:58.609+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:39:58.611+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:58.611+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:39:58.615+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:39:58.615+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:39:58.615+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:39:58.635+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-06-23T23:48:11.109+0700] {processor.py:161} INFO - Started process (PID=22966) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:48:11.110+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:48:11.112+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:11.112+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:48:11.115+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:11.114+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:48:11.115+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:48:11.147+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.061 seconds
+[2024-06-23T23:48:41.487+0700] {processor.py:161} INFO - Started process (PID=23177) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:48:41.489+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:48:41.490+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:41.490+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:48:41.492+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:48:41.492+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:48:41.493+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:48:41.515+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:49:11.694+0700] {processor.py:161} INFO - Started process (PID=23301) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:49:11.694+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:49:11.696+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:11.696+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:49:11.698+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:11.698+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:49:11.699+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:49:11.725+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.039 seconds
+[2024-06-23T23:49:42.037+0700] {processor.py:161} INFO - Started process (PID=23424) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:49:42.039+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:49:42.041+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:42.040+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:49:42.043+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:49:42.043+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:49:42.044+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:49:42.065+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:50:12.222+0700] {processor.py:161} INFO - Started process (PID=23545) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:50:12.223+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:50:12.224+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:12.224+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:50:12.226+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:12.226+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:50:12.226+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:50:12.246+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T23:50:42.390+0700] {processor.py:161} INFO - Started process (PID=23666) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:50:42.391+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:50:42.393+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:42.392+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:50:42.395+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:50:42.395+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:50:42.395+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:50:42.414+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-06-23T23:51:12.673+0700] {processor.py:161} INFO - Started process (PID=23789) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:51:12.674+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:51:12.675+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:12.675+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:51:12.678+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:12.678+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:51:12.679+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:51:12.699+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-06-23T23:51:42.819+0700] {processor.py:161} INFO - Started process (PID=23909) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:51:42.823+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:51:42.826+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:42.826+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:51:42.830+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:51:42.830+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:51:42.831+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:51:42.866+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.058 seconds
+[2024-06-23T23:52:13.206+0700] {processor.py:161} INFO - Started process (PID=24031) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:52:13.207+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:52:13.208+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:13.208+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:52:13.210+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:13.210+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:52:13.210+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:52:13.230+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-06-23T23:52:43.490+0700] {processor.py:161} INFO - Started process (PID=24153) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:52:43.491+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:52:43.492+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:43.492+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:52:43.494+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:52:43.494+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:52:43.495+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:52:43.517+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.034 seconds
+[2024-06-23T23:53:13.706+0700] {processor.py:161} INFO - Started process (PID=24297) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:53:13.707+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:53:13.708+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:13.708+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:53:13.710+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:13.710+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:53:13.710+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:53:13.729+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:53:43.769+0700] {processor.py:161} INFO - Started process (PID=24424) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:53:43.770+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:53:43.772+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:43.772+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:53:43.774+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:53:43.774+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:53:43.774+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:53:43.792+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-06-23T23:54:14.561+0700] {processor.py:161} INFO - Started process (PID=24547) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:54:14.562+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:54:14.564+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:54:14.564+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:54:14.567+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:54:14.567+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:54:14.568+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:54:14.591+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.037 seconds
+[2024-06-23T23:54:45.470+0700] {processor.py:161} INFO - Started process (PID=24750) to work on /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:54:45.472+0700] {processor.py:830} INFO - Processing file /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-06-23T23:54:45.474+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:54:45.474+0700] {dagbag.py:545} INFO - Filling up the DagBag from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:54:45.477+0700] {logging_mixin.py:188} INFO - [2024-06-23T23:54:45.476+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-06-23T23:54:45.477+0700] {processor.py:842} WARNING - No viable dags retrieved from /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-06-23T23:54:45.502+0700] {processor.py:183} INFO - Processing /home/airflow/Bot_Telegram/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.039 seconds
