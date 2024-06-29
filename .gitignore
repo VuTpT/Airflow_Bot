@@ -3,9 +3,13 @@
 ./airflow.db
 ./webserver_config.py
 
-./venv
-./.env
-./logs
-./docs
-./tmp
-./configs
+venv/*
+.env
+logs
+docs
+tmp
+configs
+logs/*
+dags/__pycache__/*
+dags/subdags/__pycache__/*
+dags/groups/__pycache__/*
