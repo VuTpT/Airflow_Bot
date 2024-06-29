@@ -3,6 +3,7 @@
 ./airflow.db
 ./webserver_config.py
 
+.idea/*
 venv/*
 .env
 logs
