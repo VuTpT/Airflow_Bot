@@ -9,7 +9,7 @@ venv/*
 logs
 docs
 tmp
-configs
+configs/tokens_github.txt
 logs/*
 dags/__pycache__/*
 dags/subdags/__pycache__/*
